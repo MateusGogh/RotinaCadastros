@@ -1,0 +1,19 @@
+{
+  "name": "testes",
+  "version": "1.0.0",
+  "description": "Testes Unitarios Usando Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "Testes",
+    "Unitarios"
+  ],
+  "author": "Mateus Souza",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  }
+}
